@@ -4,7 +4,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/45244
 
 1. Download the base mod, and two optional files
 2. Install them in MO2
-3. Prefix the mod in the left side with \[NoDelete\]
+3. Rename the mod in the left side with the prefix \[NoDelete\]
 4. Right click the mod and open in explorer
 5. Download the [patch here](https://github.com/Grrenix/Lorerim-Armor-Patches/raw/refs/heads/main/Practical%20Pirate/Practical%20Pirate%20-%20Lorerim%20Patch.esp) and, add into this folder
 6. Enable the mod in the left side of MO2
