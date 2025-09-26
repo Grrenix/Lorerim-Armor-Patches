@@ -2,7 +2,7 @@
 ![Northman Armor Mashup](https://staticdelivery.nexusmods.com/mods/1704/images/133313/133313-1730911443-362793185.png)
 https://www.nexusmods.com/skyrimspecialedition/mods/133313
 
-1. Download the base mod, and two optional files
+1. Download the base mod
 2. Install them in MO2
 3. Rename the mod in the left side with the prefix \[NoDelete\]
 4. Right click the mod and click information
